@@ -1,4 +1,2 @@
-# demo-repo
-Demo repository for learning github
+# django for everyone Tutorial file
 
-Some content
